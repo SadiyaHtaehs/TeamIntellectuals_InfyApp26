@@ -195,7 +195,7 @@
     }
 
     .video {
-      border: 30px solid #b8a0c1;
+      border: 30px solid #861616;
       border-radius: 40px;
       margin: 50px auto;
       max-width: 800px;
@@ -247,7 +247,7 @@
     }
 
     .button {
-      background-color: #4CAF50;
+      background-color: #861616;
       border: none;
       color: white;
       padding: 10px 20px;
@@ -276,7 +276,7 @@
   align-items: center;
   text-align: center;
   text-decoration: none;
-  background-color: #b8a0c1;
+  background-color: #861616;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
@@ -299,7 +299,7 @@
     
 .team-card h3,
 .team-card p {
-  color: white;
+  color: #861616;
   margin: 5px 0;
 }
 
