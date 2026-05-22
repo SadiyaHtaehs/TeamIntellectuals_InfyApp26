@@ -76,7 +76,7 @@
     }
 
     .navbar-brand {
-      color: #F8F8FF;
+      color: #FFFFFF;
       font-size: 27px;
       font-weight: 600;
       text-decoration: none;
@@ -95,7 +95,7 @@
     }
 
     .links a:hover {
-      color: #b8a0c1;
+      color: #FFFFFF;
     }
 
     .content {
@@ -103,7 +103,7 @@
       text-align: center;
      h1 {
   font-size: 2.5em;
-  font-color: #462054;
+  font-color: #FFFFFF;
 }
     }
 
@@ -124,7 +124,7 @@
     }
 
     .card {
-      background-color: #e3d3e8;
+      background-color: #FFFFFF;
       border-radius: 12px;
       padding: 20px;
       text-align: center;
@@ -137,7 +137,7 @@
     }
 
     .card h3 {
-      color: #462054;
+      color: #FFFFFF;
     }
 
     .slide-deck-box {
