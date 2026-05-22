@@ -126,7 +126,7 @@ a {
 }
 
 .card {
-  background-color: #861616;
+  background-color: #ffffff;
   border: 5px solid #5F1717;
   border-radius: 12px;
   padding: 20px;
@@ -141,7 +141,7 @@ a {
 
 .card h3,
 .card p {
-  color: white;
+  color: #5F1717;
 }
 
 .slide-deck-box {
@@ -150,7 +150,7 @@ a {
   margin: 50px auto;
   max-width: 1000px;
   padding: 20px;
-  background-color: #861616;
+  background-color: #ffffff;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -160,7 +160,7 @@ a {
 
 .slide-deck-box h3 {
   margin-top: 0;
-  color: white;
+  color: #5F1717;
 }
 
 .slide-container {
@@ -184,7 +184,7 @@ a {
   max-width: 900px;
   height: 700px;
   padding: 20px;
-  background-color: #861616;
+  background-color: #ffffff;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -206,7 +206,7 @@ a {
   margin: 50px auto;
   max-width: 800px;
   padding: 20px;
-  background-color: #861616;
+  background-color: #ffffff;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -258,13 +258,13 @@ a {
   align-items: center;
   text-align: center;
   text-decoration: none;
-  background-color: #861616;
+  background-color: #ffffff;
   border: 5px solid #5F1717;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
   padding: 25px;
-  color: white;
+  color: #5F1717;
   height: 325px;
 }
 
@@ -282,6 +282,6 @@ a {
 
 .team-card h3,
 .team-card p {
-  color: white;
+  color: #5F1717;
   margin: 5px 0;
-} 
+}
