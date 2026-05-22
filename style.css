@@ -7,7 +7,7 @@
 body {
   margin: 0;
   font-family: 'Nunito Sans', sans-serif;
-  background-color: #861616;
+  background-color: #760A0A;
   min-height: 100vh;
   color: white;
 }
@@ -17,8 +17,8 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  background-color: #861616;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  background-color: #760A0A;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.25);
   z-index: 1000;
   padding: 15px;
   margin-bottom: 0;
@@ -27,7 +27,7 @@ header {
 .hero-section {
   height: 99vh;
   width: 100%;
-  background: #861616;
+  background: #760A0A;
   position: relative;
   overflow: hidden;
   display: flex;
@@ -261,7 +261,7 @@ a {
   background-color: #ffffff;
   border: 5px solid #5F1717;
   border-radius: 15px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.28);
   transition: transform 0.3s ease;
   padding: 25px;
   color: #5F1717;
