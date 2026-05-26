@@ -87,7 +87,9 @@ header {
 .slide-card {
   width: 100%;
   max-width: 900px;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 1 / 1 !important;
+  height: auto !important;
+  min-height: 0 !important;
   background-color: #ffffff;
   border: 22px solid #5F1717;
   border-radius: 28px;
@@ -225,14 +227,16 @@ a {
   border-radius: 36px;
   margin: 24px auto;
   max-width: 900px;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 1 / 1 !important;
+  height: auto !important;
+  min-height: 0 !important;
   padding: 20px;
   background-color: #ffffff;
 }
 
 .figma iframe {
   width: 100%;
-  height: calc(100% - 40px);
+  height: calc(100% - 40px) !important;
   border-radius: 10px;
   border: none;
 }
