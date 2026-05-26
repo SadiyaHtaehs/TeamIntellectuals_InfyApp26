@@ -81,11 +81,13 @@ header {
   display: flex;
   justify-content: center;
   padding: 30px 20px;
+  min-height: 85vh;
 }
 
 .slide-card {
   width: 100%;
-  max-width: 1000px;
+  max-width: 1200px;
+  min-height: 800px;
   background-color: #ffffff;
   border: 30px solid #5F1717;
   border-radius: 40px;
