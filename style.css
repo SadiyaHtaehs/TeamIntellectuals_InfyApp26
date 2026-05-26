@@ -177,6 +177,19 @@ a {
   border: none;
 }
 
+.slide-deck-note {
+  margin-top: 16px;
+  color: #5F1717;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.slide-deck-note a {
+  color: #5F1717;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
 .figma {
   border: 30px solid #5F1717;
   border-radius: 40px;
