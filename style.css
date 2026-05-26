@@ -131,7 +131,7 @@ a {
   border-radius: 12px;
   padding: 20px;
   text-align: center;
-  transition: transform 0.3s ease-in-out;
+ 
 }
 
 .card:hover {
@@ -151,12 +151,9 @@ a {
   max-width: 1000px;
   padding: 20px;
   background-color: #ffffff;
-  transition: transform 0.3s ease-in-out;
+  
 }
 
-.slide-deck-box:hover{
-  transform: scale(1.05);
-}
 
 .slide-deck-box h3 {
   margin-top: 0;
@@ -198,13 +195,10 @@ a {
   height: 700px;
   padding: 20px;
   background-color: #ffffff;
-  transition: transform 0.3s ease-in-out;
+  
 }
 
-.figma:hover{
-  transform: scale(1.05);
-  cursor: pointer;
-}
+
 
 .figma iframe {
   width: 100%;
@@ -220,7 +214,7 @@ a {
   max-width: 800px;
   padding: 20px;
   background-color: #ffffff;
-  transition: transform 0.3s ease-in-out;
+  
 }
 
 .video:hover{
@@ -281,9 +275,6 @@ a {
   height: 325px;
 }
 
-.team-card:hover {
-  transform: scale(1.05);
-}
 
 .team-card img {
   width: 160px;
