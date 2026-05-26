@@ -331,6 +331,7 @@ a {
   margin-bottom: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   overflow: hidden;
+  background: transparent !important;
 }
 
 .team-image-wrapper img {
@@ -339,6 +340,7 @@ a {
   object-fit: cover;
   border-radius: 8px;
   object-position: center top;
+  background: transparent !important;
 }
 
 .team-card h3,
